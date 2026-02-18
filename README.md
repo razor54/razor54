@@ -1,22 +1,47 @@
-<h1 align="center">Hi 👋, I'm André Gaudêncio</h1>
-<h3 align="center">Passionate Devops Engineer from Portugal</h3>
+# Hi there, I'm André Gaudêncio 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=razor54&label=Profile%20views&color=0e75b6&style=flat" alt="razor54" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=razor54" alt="razor54" /></a> </p>
-
-- 🌱 I’m currently learning **Kubernetes**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/andre-gaudencio-47aa1715a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andre-gaudencio-47aa1715a" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/razor54/razor54/master/img/profile.png" width="200" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" alt="André Gaudêncio" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://razor54.github.io/razor54/"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-FF5722?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/andre-gaudencio-47aa1715a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razor54&show_icons=true&locale=en&layout=compact" alt="razor54" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razor54&show_icons=true&locale=en" alt="razor54" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=razor54&" alt="razor54" /></p>
+I'm a **DevOps Engineer** and **Software Engineer** based in Lisbon, Portugal. With 2 years as a developer and now over 5 years as a DevOps engineer, I specialize in infrastructure automation and CI/CD processes, delivering direct business value.
+
+- 🌍 **Mission**: Building "no-downtime" applications through rigorous automation and elimination of human error.
+- 🚀 **Specialties**: CI/CD optimization, Infrastructure as Code, Cloud‑native architectures.
+- 🌱 **Learning**: Currently deepening my expertise in **Kubernetes** and distributed systems.
+- ⌨️ **Interests**: Mechanical keyboard enthusiast, fitness advocate, and home automation geek.
+
+---
+
+## 🏆 Key Achievements
+
+- 📉 **Reduced Lead Times by 40%**: Completely overhauled CI/CD pipelines for a major organization.
+- 📈 **Boosted Customer Retention**: Developed an advanced user metric collection system, bridging the gap between management and customer needs.
+- ⚡️ **Implemented trunk‑based development with temporary environments**: Spin‑up environments for each feature branch in CI/CD pipeline, enabling rapid testing and fast releases.
+- 🛠️ **Infrastructure at Scale**: Successfully managed and automated infrastructure in complex organizational environments.
+
+---
+
+## 🛠️ Languages and Tools
+
+| Category | Tools … |
+| :--- | :--- |
+| **DevOps & Cloud** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&amp;logo=amazon-aws&amp;logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&amp;logo=docker&amp;logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&amp;logo=kubernetes&amp;logoColor=white) ![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=flat&amp;logo=gcp&amp;logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=flat&amp;logo=jenkins&amp;logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&amp;logo=nginx&amp;logoColor=white) ![Bash](https://img.shields.io/badge/bash-%234EAA25.svg?style=flat&amp;logo=gnu-bash&amp;logoColor=white) |
+| **Backend** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&amp;logo=java&amp;logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0.svg?style=flat&amp;logo=python&amp;logoColor=ffdd54) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&amp;logo=go&amp;logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&amp;logo=django&amp;logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&amp;logo=flask&amp;logoColor=white) ![NodeJS](https://img.shields.io/badge/nodejs-%2260EA6E?style=flat&amp;logo=nodedotjs&amp;logoColor=white) |
+| **Data & Messaging** | ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat&amp;logo=postgresql&amp;logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&amp;logo=redis&amp;logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600.svg?style=flat&amp;logo=rabbitmq&amp;logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%23005571.svg?style=flat&amp;logo=elasticsearch&amp;logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&amp;logo=sqlite&amp;logoColor=white) |
+| **Testing & Monitoring** | ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat&amp;logo=grafana&amp;logoColor=white) ![Kibana](https://img.shields.io/badge/kibana-%23005571.svg?style=flat&amp;logo=kibana&amp;logoColor=white) ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=flat&amp;logo=jestjs&amp;logoColor=white) ![Cypress](https://img.shields.io/badge/cypress-%23E5E5E5.svg?style=flat&amp;logo=cypress&amp;logoColor=white) ![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=flat&amp;logo=selenium&amp;logoColor=white) ![Datadog](https://img.shields.io/badge/Datadog-%23007BB6.svg?style=flat&amp;logo=datadog&amp;logoColor=white) |
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=razor54&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" alt="razor54" />
+</p>
