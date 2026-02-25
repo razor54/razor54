@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://razor54.github.io/razor54/"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-FF5722?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Portfolio" /></a>
+  <a href="https://razor54.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-FF5722?style=for-the-badge&amp;logo=google-chrome&amp;logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/andre-gaudencio-47aa1715a"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
 </p>
 
